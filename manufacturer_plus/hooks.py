@@ -170,6 +170,12 @@ user_data_fields = [
 	}
 ]
 
+fixtures = [
+    {"dt": "Client Script", "filters": [["module", "=", " Manufacturer Plus"]]},
+    {"dt": "Custom Field", "filters": [["module", "=", " Manufacturer Plus"]]},
+    
+]
+
 # Authentication and authorization
 # --------------------------------
 
